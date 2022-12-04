@@ -5,4 +5,3 @@ i love programming
 thankyou
 see you
 bye all
-ok fine 
